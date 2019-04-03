@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## How to ConTRIBUTE
 
 no idea
+
+### Deployment
+
+however and whenever you like it
