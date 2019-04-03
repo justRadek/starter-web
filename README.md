@@ -1,10 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is plain website project for training purpouse of Git/hub
 
 ## Introduction
 
-training purpouse hub
+training purpouse hub/repo
 
 ## Purpose
 
