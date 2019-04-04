@@ -2,9 +2,9 @@
 
 This is plain website project for training purpouse of Git/hub
 
-## Introductions
+## Introduction
 
-training purpouse hub/repository for mua
+training purpouse hub/repository for mua and otters
 
 ## Purpose
 
