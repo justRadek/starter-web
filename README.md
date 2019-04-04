@@ -17,3 +17,6 @@ no idea
 ### Deployment
 
 however and whenever you like it
+
+#### Copyright
+@$ copyright included
