@@ -19,4 +19,4 @@ no idea
 however and whenever you like it
 
 #### Copyright
-@$ copyright included
+@$ copyright included ... maybe
