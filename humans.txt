@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Radek - test engineer in automation trial
 
 # THANKS
 
