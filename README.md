@@ -2,9 +2,9 @@
 
 This is plain website project for training purpouse of Git/hub
 
-## Introduction
+## Introductions
 
-training purpouse hub/repo
+training purpouse hub/repository
 
 ## Purpose
 
