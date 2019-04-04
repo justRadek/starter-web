@@ -4,7 +4,7 @@ This is plain website project for training purpouse of Git/hub
 
 ## Introductions
 
-training purpouse hub/repository
+training purpouse hub/repository for mua
 
 ## Purpose
 
