@@ -17,6 +17,7 @@ no idea
 ### Deployment
 
 however and whenever you like it
+sometimes once per day
 
 #### Copyright
 @$ copyright included ... maybe
