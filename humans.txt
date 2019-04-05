@@ -10,7 +10,8 @@
     to all who sported me
 	leave a review for me gettin better
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY COllon
 
     HTML5, CSS3
     jQuery, Modernizr
+	somethin elsa?
