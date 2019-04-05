@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<title>An example of the gooda websajta</title>
+=======
+	
+>>>>>>> FB addin some nonsence
+>>>>>>> realWork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+	<!-- thi is copyright so do not copy it fukers ... or you can, sorry for bbein rude before-->
+		body {
+			padding-top: 55px;
+			padding-bottom: 23px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content for youu ouououuefef
+		</p>
+	</main>
+	<footer class="container">
+<<<<<<< HEAD
+		<p>&copy; Company sojddedaGroups</p>
+=======
+		<p>&copy; Company sojefefdaGroups</p>
+>>>>>>> FB addin some nonsence
+	</footer>
+</body>
+</html>
