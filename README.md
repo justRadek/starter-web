@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to ConTRIBUTE
 
-no idea
+no idea, maybe some cash for stash?
 
 ### Deployment
 
